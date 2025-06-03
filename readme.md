@@ -16,7 +16,7 @@ CoreGL - это библиотека для создания 3D и 2D игр, п
 ![](./icon/lib.png)\
 4.Прописываем зависимости
 ```h
-coregl32.lib
+opengl32.lib
 CoreGL.lib
 ```
 ![](./icon/value.png)\
