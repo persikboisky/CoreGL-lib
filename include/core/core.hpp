@@ -1,1 +1,6 @@
+#ifndef LIBRARY_INCLUDE_CORE_CORE_HPP_
+#define LIBRARY_INCLUDE_CORE_CORE_HPP_
+
 #include "core/core.hpp"
+
+#endif // !LIBRARY_INCLUDE_CORE_CORE_HPP_
